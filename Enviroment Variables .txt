@@ -1,0 +1,6 @@
+Key            Value
+
+SCALER_BUCKET  stockmarketprediction25
+SCALER_KEY     stock_lstm/scaler_params.json
+SM_ENDPOINT    stock-lstm-endpoint-1770106343
+SNS_TOPIC_ARN  arn:aws:sns:ap-south-1:143063371745:stock-prediction-alert
