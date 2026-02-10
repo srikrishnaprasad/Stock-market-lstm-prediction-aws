@@ -2,7 +2,7 @@
 End-to-end Stock Market LSTM Prediction System using AWS SageMaker, Lambda, API Gateway, SNS, and Power BI
 ![Stock market Architecture](https://github.com/user-attachments/assets/d36924ba-cafe-41c1-b179-9d75c592cc0a)
 
-### Stock Market Prediction – Correct Architecture Explanation
+### Stock Market Prediction – Architecture Explanation
 
 1️⃣ Model Training & Deployment (Amazon SageMaker)
 
